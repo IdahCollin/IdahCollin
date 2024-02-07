@@ -19,11 +19,9 @@ Version controll: Git
 ### Check it out!
 
 My latest project: OpenAir Feast. Open AIr Feast generates camping stove-friendly recipes by integrating with the OpenAI API. Recipe generation is based on user prompts of one to three ingredients and dietary requirements. <br><br>
-
 Frontend: HTML, CSS, JavaScript, React, Vite, Zustand, React Router, React Icons<br>
 Backend: Node.js, Express, MongoDB, Mongoose, OpenAI<br>
 Other: GitHub, Figma, VScode, Squoosh<br><br>
-
 Demo: https://openair-feast.netlify.app/<br>
 View the code: https://github.com/IdahCollin/open-air-feast<br>
 
