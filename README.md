@@ -2,21 +2,21 @@
 
 I’m a Frontend developer with a background as a Health developer and manager. I have always been intrigued in problem-solving and this was why I got into programming, using my creative ability to solve problems. I love being part of the world-of-coding!
 
-## Contact
+### Contact
 
 LinkedIn: www.linkedin.com/in/idah-collin
 
-## Portfolio
+### Portfolio
 
 https://idah-collin-portfolio.netlify.app/
 
-## Tech
+### Tech
 
 Educated frontend developer, MERN (full stack ambitions). 
 HTML, CSS, JavaScript, REACT, Express, MongoDB, RestfulAPI
 Version controll: Git
 
-## Check it out!
+### Check it out!
 
 My latest project: OpenAir Feast. Open AIr Feast generates camping stove-friendly recipes by integrating with the OpenAI API. Recipe generation is based on user prompts of one to three ingredients and dietary requirements. 
 Frontend: React, Vite, Zustand, React Router, React Icons
