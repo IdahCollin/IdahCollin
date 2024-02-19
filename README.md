@@ -5,6 +5,7 @@ I’m a Frontend developer with a background as a Health developer and manager. 
 ### Contact
 
 LinkedIn: www.linkedin.com/in/idah-collin
+Happy to connect!
 
 ### Portfolio
 
@@ -22,8 +23,8 @@ My latest full stack project: OpenAir Feast. Open AIr Feast generates camping st
 Frontend: HTML, CSS, JavaScript, React, Vite, Zustand, React Router, React Icons<br>
 Backend: Node.js, Express, MongoDB, Mongoose, OpenAI<br>
 Other: GitHub, Figma, VScode, Squoosh<br><br>
-Demo: https://openair-feast.netlify.app/<br>
-View the code: https://github.com/IdahCollin/open-air-feast<br>
+**Demo:** https://openair-feast.netlify.app/<br>
+**View the code:** https://github.com/IdahCollin/open-air-feast<br>
 
 <!--
 **IdahCollin/IdahCollin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
