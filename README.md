@@ -2,20 +2,24 @@
 
 I’m a Frontend developer with a background as a Health developer and manager. I have always been intrigued in problem-solving and this was why I got into programming, using my creative ability to solve problems. I love being part of the world-of-coding!
 
+
 ### Contact
 
 LinkedIn: www.linkedin.com/in/idah-collin
 Happy to connect!
 
+
 ### Portfolio
 
 https://idah-collin-portfolio.netlify.app/
+
 
 ### Tech
 
 Educated frontend developer, MERN (full stack ambitions). <br>
 HTML, CSS, JavaScript, REACT, Express, MongoDB, RestfulAPI<br>
 Version controll: Git
+
 
 ### Check it out!
 
