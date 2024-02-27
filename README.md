@@ -1,6 +1,6 @@
 ### Hi there, I'm Idah Collin!
 
-I'm a curious frontend developer with a background as a Health developer, project leader and manager. I aim to create user-friendly digital experiences. When I'm not coding, being out-doors is how I recharge. A hike, skiing or just enjoying time with family and friends are what gives me energy!<br>
+I'm a frontend developer with a background as a Health developer, project leader and manager. I aim to create user-friendly digital experiences. When I'm not coding, being out-doors is how I recharge. A hike, skiing or just enjoying time with family and friends are what gives me energy!<br>
 
 
 ### Contact
