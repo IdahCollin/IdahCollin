@@ -23,7 +23,7 @@ Version controll: Git<br>
 
 ### Check it out!
 
-My latest full stack project: OpenAir Feast. Open AIr Feast generates camping stove-friendly recipes by integrating with the OpenAI API. Recipe generation is based on user prompts of one to three ingredients and dietary requirements. <br><br>
+One of my latest full stack projects: OpenAir Feast. Open AIr Feast generates camping stove-friendly recipes by integrating with the OpenAI API. Recipe generation is based on user prompts of one to three ingredients and dietary requirements. <br><br>
 Frontend: HTML, CSS, JavaScript, React, Vite, Zustand, React Router, React Icons<br>
 Backend: Node.js, Express, MongoDB, Mongoose, OpenAI<br>
 Other: GitHub, Figma, VScode, Squoosh<br><br>
